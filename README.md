@@ -8,14 +8,6 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 </div>
 
-<style>
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
-
 ## 👋 About Me
 Passionate IT undergraduate with a strong foundation in both hardware and software technologies. Currently pursuing a Bachelor of Information Technology at the University of Colombo while preparing for a career in network support and systems administration.
 
