@@ -1,8 +1,8 @@
 # Venusha Erandima 👨‍💻
 
-<a href="https://github.com/venushaerandima">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=venushaerandima&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues" alt="venushaerandima's GitHub stats" />
-</a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=venushaerandima&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ## 👋 About Me
 Passionate IT undergraduate with a strong foundation in both hardware and software technologies. Currently pursuing a Bachelor of Information Technology at the University of Colombo while preparing for a career in network support and systems administration.
