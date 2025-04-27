@@ -1,8 +1,12 @@
 # Venusha Erandima 👨‍💻
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=venushaerandima&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+</div>
 
 ## 👋 About Me
 Passionate IT undergraduate with a strong foundation in both hardware and software technologies. Currently pursuing a Bachelor of Information Technology at the University of Colombo while preparing for a career in network support and systems administration.
