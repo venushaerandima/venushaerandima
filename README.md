@@ -1,6 +1,6 @@
 # Venusha Erandima 👨‍💻
 
-[![Visitors](https://visitcount.itsvg.in/api?id=venushaerandima&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitors](https://visitcount.itsvg.in/api?id=venushaerandima&icon=0&color=0)](https://venushaerandima.github.io/)
 
 ## 👋 About Me
 Passionate IT undergraduate with a strong foundation in both hardware and software technologies. Currently pursuing a Bachelor of Information Technology at the University of Colombo while preparing for a career in network support and systems administration.
