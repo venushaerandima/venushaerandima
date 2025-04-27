@@ -1,6 +1,6 @@
 # Venusha Erandima 👨‍💻
 
-[![Visitors](https://visitcount.itsvg.in/api?id=venushaerandima&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Network+Engineer;System+Administrator;Full+Stack+Developer;Cybersecurity+Enthusiast;Hardware+Specialist)](https://git.io/typing-svg)
 
 ## 👋 About Me
 Passionate IT undergraduate with a strong foundation in both hardware and software technologies. Currently pursuing a Bachelor of Information Technology at the University of Colombo while preparing for a career in network support and systems administration.
