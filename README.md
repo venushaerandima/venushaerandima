@@ -1,27 +1,86 @@
-# 💫 About Me:
-Venusha Erandima: A Rising Star in the Field of Information Technology<br>Venusha Erandima is an inspiring young professional whose journey into the world of Information Technology (IT) is marked by dedication, passion, and relentless curiosity. With a strong foundation in both academic knowledge and practical experience, Venusha is steadily shaping a promising future in a field that demands constant innovation and adaptability.<br><br>Educational Journey<br>Venusha’s academic path began at St. Aloysius College, Ratnapura, where he completed his G.C.E. Ordinary Level Examination (O/L) in 2017. Recognizing his passion for technology early on, he pursued the Technology stream for his G.C.E. Advanced Level Examination (A/L) in 2020, again at St. Aloysius College. These early steps showcased his inclination toward technical and practical knowledge.<br><br>Following his secondary education, Venusha enrolled at the College of Technology, Ratnapura, where he studied Computer Hardware Technology, earning an NVQ Level 4 certification. This vocational qualification provided him with strong hands-on skills, especially in computer hardware repair, maintenance, and troubleshooting—crucial areas for any IT professional.<br><br>Currently, Venusha is a second-year undergraduate at the University of Colombo, pursuing a Bachelor of Information Technology (BIT) degree. His university education has expanded his horizons to include software development, networking, cybersecurity, database management, and system administration, equipping him with a versatile skill set for the modern IT landscape.<br><br>Professional Development<br>Beyond academics, Venusha has actively sought practical exposure by completing on-the-job training, an experience that further enhanced his technical proficiency and problem-solving abilities. His real-world exposure to the IT industry bridges the gap between theoretical knowledge and practical application, preparing him for the demands of professional life.<br><br>Currently, Venusha is also preparing for an important milestone: an interview for a network support role. This opportunity not only highlights his readiness to step into the professional IT world but also reflects his commitment to continuous growth and learning.<br><br>Skills and Competencies<br>Venusha possesses a broad spectrum of technical skills, including:<br><br>Computer Hardware and Troubleshooting<br><br>Network Installation and Support<br><br>Software Development (with experience in languages like Python, Java, C++, PHP, and JavaScript)<br><br>Database Management (MySQL, MongoDB)<br><br>Cloud Technologies (AWS, Azure)<br><br>Cybersecurity Fundamentals<br><br>Virtualization and Cloud Computing<br><br>System Administration (Linux and Windows environments)<br><br>Additionally, Venusha has developed strong soft skills like critical thinking, adaptability, time management, teamwork, and effective communication—all of which are vital for success in a dynamic IT environment.<br><br>Interests and Aspirations<br>Venusha’s interests go beyond classroom learning. He is particularly passionate about hardware technology, networking, cybersecurity, and software development. His enthusiasm for emerging technologies and commitment to staying updated with the latest trends shows his drive for excellence.<br><br>In the future, Venusha aims to become a highly skilled IT professional, specializing in network engineering, cybersecurity, or systems administration. His long-term vision includes contributing to large-scale IT projects, improving digital security frameworks, and mentoring future generations of IT enthusiasts.<br><br>Conclusion<br>Venusha Erandima stands as a shining example of a modern IT professional in the making—well-educated, practically skilled, and passionately driven. His journey so far reflects resilience, ambition, and a clear vision for the future. With every step forward, Venusha continues to build the foundation for a successful career in Information Technology, one that promises to make a significant impact in the industry.
+# Venusha Erandima 👨‍💻
 
+[![Visitors](https://visitcount.itsvg.in/api?id=venushaerandima&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Venusha Erandima) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Venusha Erandima) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Venusha Erandima) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venushaerandima@gmail.com) 
+## 👋 About Me
+Passionate IT undergraduate with a strong foundation in both hardware and software technologies. Currently pursuing a Bachelor of Information Technology at the University of Colombo while preparing for a career in network support and systems administration.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venushaerandima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=venushaerandima&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venushaerandima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> "The only way to do great work is to love what you do." — Steve Jobs
+
+## 🎓 Education
+- **University of Colombo** - Bachelor of Information Technology (2nd Year)
+- **College of Technology, Ratnapura** - Computer Hardware Technology (NVQ Level 4)
+- **St. Aloysius College, Ratnapura** - G.C.E Advanced Level (Technology Stream, 2020)
+
+## 🚀 Skills
+### Programming Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Additional Skills
+- Network Installation & Support
+- Computer Hardware Troubleshooting
+- System Administration (Linux/Windows)
+- Cloud Technologies (AWS, Azure)
+- Cybersecurity Fundamentals
+- Virtualization
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venushaerandima&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=venushaerandima&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venushaerandima&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=venushaerandima&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venushaerandima&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🌱 Currently Learning
+- Advanced Network Engineering
+- Cloud Infrastructure & Services
+- Full-Stack Web Development
+- DevOps Practices
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=venushaerandima&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💼 Professional Aspirations
+Aiming to become a skilled IT professional specializing in network engineering, cybersecurity, or systems administration. I'm passionate about developing secure, scalable solutions and mentoring future IT enthusiasts.
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Venusha-Erandima)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venushaerandima@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Venusha-Erandima)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Venusha-Erandima)
+
+## ✍️ Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=venushaerandima&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <i>Thanks for visiting my profile! Let's connect and build something amazing together.</i>
+</div>
