@@ -4,9 +4,17 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://cdn.worldvectorlogo.com/logos/github-desktop.svg" alt="GitHub Desktop" width="65" height="65" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="65" height="65" style="background-color: #6e5494; border-radius: 15px; padding: 8px; animation: pulse 2s infinite;" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
 </div>
+
+<style>
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+</style>
 
 ## 👋 About Me
 Passionate IT undergraduate with a strong foundation in both hardware and software technologies. Currently pursuing a Bachelor of Information Technology at the University of Colombo while preparing for a career in network support and systems administration.
